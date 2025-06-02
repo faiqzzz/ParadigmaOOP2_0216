@@ -2,4 +2,8 @@
 using namespace std;
 
 class seseorang
-{};
+{
+public :
+    
+};
+
