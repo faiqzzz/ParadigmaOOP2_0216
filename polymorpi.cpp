@@ -11,3 +11,6 @@ public :
     }
 };
 
+class joko : public seseorang
+{};
+
