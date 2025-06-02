@@ -36,7 +36,8 @@ int main()
     lia b;
 
     obyek = &a;
-    
+    obyek->pesan();
+   
 
     return 0;
 }
