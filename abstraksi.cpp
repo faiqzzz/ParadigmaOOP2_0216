@@ -4,8 +4,7 @@ using namespace std;
 class AbstraksiKlas
 {
 private:
-    string x, y,;
-
+    string x, y;
 public:
     // method untuk mengisi nilai
     // private member
@@ -17,6 +16,7 @@ public:
     // menampilkan nilai
     void display()
     {
+        cout << "X = " << x << endl;
         cout << "Y = " << y << endl;
     }
 };
