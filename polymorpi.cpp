@@ -12,5 +12,11 @@ public :
 };
 
 class joko : public seseorang
-{};
+{
+public:
+    void pesan()
+    {
+    
+    }
+};
 
